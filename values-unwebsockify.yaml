@@ -1,0 +1,6 @@
+service:
+  port: 5432
+unwebsockify:
+  url: wss://postgresql-test.chat.kadse.xyz/
+  subproto: ""
+

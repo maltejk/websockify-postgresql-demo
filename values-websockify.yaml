@@ -1,0 +1,4 @@
+websockify:
+  host: 'postgresql'
+  port: 5432
+
